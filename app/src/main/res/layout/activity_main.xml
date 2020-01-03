@@ -26,6 +26,8 @@
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:text="开灯"
+            android:textSize="36sp"
+            android:textStyle="bold"
             android:background="@drawable/shape"></Button>
     </LinearLayout>
 

@@ -24,7 +24,7 @@
                 android:dashGap="0dp"
                 android:width="1dp"
                 android:color="@color/orange"
-                />
+                android:background="?android:attr/selectableItemBackgroundBorderless"/>
             <!-- padding：Button里面的文字与Button边界的间隔 -->
             <padding android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp" />
         </shape>
