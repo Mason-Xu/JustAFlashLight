@@ -60,6 +60,14 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="0dp"
         android:layout_marginTop="32dp"
+        android:text="你的赞赏我的动力~"
+        android:textSize="30sp"
+        android:layout_gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="32dp"
         android:text="一分也是爱~"
         android:textSize="30sp"
         android:layout_gravity="center"/>
