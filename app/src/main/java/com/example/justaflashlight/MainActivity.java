@@ -70,12 +70,12 @@ public class MainActivity extends AppCompatActivity {
                 public void onClick(View v) {
                     if (isOpen) {
                         openFlash();
-                        switch_button.setText("关灯");
+                        switch_button.setText("关");
                         flash_img.setImageResource(R.drawable.flash2_img);
 
                     } else {
                         closeFlash();
-                        switch_button.setText("开灯");
+                        switch_button.setText("开");
                         flash_img.setImageResource(R.drawable.flash1_img);
                     }
                     isOpen = !isOpen;
